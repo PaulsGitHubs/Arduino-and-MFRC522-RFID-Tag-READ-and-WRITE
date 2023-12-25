@@ -7,7 +7,7 @@
 - https://www.youtube.com/watch?v=uihjXyMuqMY
 
 
-# When soldering remember to keep it at 200c or else it can hard the IC. I actaully fried mine once.
+# When soldering remember to keep it at 200c or else it can harm the IC. I fried mine once.
 https://github.com/PaulsGitHubs/Arduino-and-MFRC522-RFID-Tag-READ-and-WRITE/assets/102178068/13f3b3fd-dbe7-40cf-a602-a306756c50e5
 
 
