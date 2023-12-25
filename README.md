@@ -10,7 +10,6 @@
 # When soldering remember to keep it at 200c or else it can hard the IC. I actaully fried mine once.
 https://github.com/PaulsGitHubs/Arduino-and-MFRC522-RFID-Tag-READ-and-WRITE/assets/102178068/13f3b3fd-dbe7-40cf-a602-a306756c50e5
 
-![image0](https://github.com/PaulsGitHubs/Arduino-and-MFRC522-RFID-Tag-READ-and-WRITE/assets/102178068/046fccf2-b66c-47a8-ad03-de51cad8b7fc)
 
 # Remember to change the pins to what is described in the code. In the first picture I had the rst pin to pin 5 on the arduino. Change it to pin 9 if using the DumpInfo code, etc.
 
